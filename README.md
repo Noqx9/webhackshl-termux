@@ -16,19 +16,21 @@ Sigue los pasos que encontrarás en https://securityhacklabs.net/articulo/nuestr
 # Uso de la herramienta
 Teclee en la terminal de termux:</br>
 
-~$ git clone https://github.com/sechacklabs/webhackshl-termux.git</br>
-~$ cd webhackshl-termux</br>
-~$ python2 webhackshl.py<br>
+git clone https://github.com/sechacklabs/webhackshl-termux.git</br>
+
+cd webhackshl-termux</br>
+
+python2 webhackshl.py<br>
 
 Para ver todas las opciones de la herramienta:</br>
 
-~$ python2 webhackshl.py -h</br>
+python2 webhackshl.py -h</br>
 
 # Actualización de la herramienta.
 
 Si usted ha descargado e instalado la herramienta en su equipo usando el script <em>install.sh</em> y desea actualizarla a la versión más reciente deberá realizar lo siguiente:</br>
 
-~$ python2 webhackshl.py -u</br>
+python2 webhackshl.py -u</br>
 
 # Soporte y contacto.
 

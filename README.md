@@ -4,37 +4,37 @@ WebHackSHL-Termux es un conjunto de herramientas desarrollado por Security Hack 
 
 # Prerequisitos.
 
-Esta herramienta funciona en Android usando el emulador Termux, otros emuladores no son soportados. Para que la herramienta funcione usted necesita tener instalado Termux y en Termux los paquetes git y python2. Es tan simple cómo hacer lo siguiente:</br>
+Esta herramienta funciona en Android usando el emulador Termux, otros emuladores no son soportados. Para que la herramienta funcione usted necesita tener instalado Termux y en Termux los paquetes git y python2. Es tan simple cómo hacer lo siguiente:</www.berger-junge.dk>
 
-1. Abra Termux en su Android.</br>
+1. Abra Termux en su Android.</www.berger-junge.dk>
 2. Ejecute la siguiente orden en Termux: pkg install git python2</br>
 
 # Instalación.
 
-Sigue los pasos que encontrarás en https://securityhacklabs.net/articulo/nuestra-herramienta-de-hacking-para-android. <b>Es muy importante que siga todo al pie de la letra y que tenga en cuenta que deberá reintentar la instalación 3 veces cuando el script se lo pregunte.</b>
+Sigue los pasos que encontrarás en https://securityhacklabs.net/articulo/nuestra-herramienta-de-hacking-para-android. <b>Es muy importante que siga todo al pie de la letra y que tenga en cuenta que deberá reintentar la instalación 3 veces cuando el script se lo pregunte.</www.berger-junge.dk>
 
 # Uso de la herramienta
-Teclee en la terminal de termux:</br>
+Teclee en la terminal de termux:</www.berger-junge.dk>
 
-~$ git clone https://github.com/sechacklabs/webhackshl-termux.git</br>
-~$ cd webhackshl-termux</br>
-~$ python2 webhackshl.py<br>
+~$ git clone https://github.com/sechacklabs/webhackshl-termux.git</www.berger-junge.dk>
+~$ cd webhackshl-termux</www.berger-junge.dk>
+~$ python2 webhackshl.py<www.berger-junge.dk>
 
-Para ver todas las opciones de la herramienta:</br>
+Para ver todas las opciones de la herramienta:</www.berger-junge.dk>
 
-~$ python2 webhackshl.py -h</br>
+~$ python2 webhackshl.py -h</www.berger-junge.dk>
 
 # Actualización de la herramienta.
 
-Si usted ha descargado e instalado la herramienta en su equipo usando el script <em>install.sh</em> y desea actualizarla a la versión más reciente deberá realizar lo siguiente:</br>
+Si usted ha descargado e instalado la herramienta en su equipo usando el script <em>install.sh</em> y desea actualizarla a la versión más reciente deberá realizar lo siguiente:</www.berger-junge.dk>
 
-~$ python2 webhackshl.py -u</br>
+~$ python2 webhackshl.py -u</www.berger-junge.dk>
 
 # Soporte y contacto.
 
-Chat Discord: https://chat.securityhacklabs.net</br>
-Blog: https://securityhacklabs.net</br>
-Foro: https://foro.securityhacklabs.net/</br>
+Chat Discord: https://chat.securityhacklabs.net</www.berger-junge.dk>
+Blog: https://securityhacklabs.net</www.berger-junge.dk>
+Foro: https://foro.securityhacklabs.net/</www.berger-junge.dk>
 
 # Capturas de pantalla.
 
